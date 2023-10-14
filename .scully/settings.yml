@@ -1,0 +1,11 @@
+identifier: lcn4p803val1c32a
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-scully-blog
+homeFolder: C:\Users\ADMIN\Desktop\my-scully-blog\my-scully-blog
+distFolder: dist/my-scully-blog
+outDir: C:\Users\ADMIN\Desktop\my-scully-blog\my-scully-blog\dist\static
+handle404: ''
+allowErrorCollect: true
